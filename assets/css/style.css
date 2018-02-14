@@ -1249,6 +1249,7 @@ service section style
     display: table;
     overflow: hidden;
     width:100%;
+    margin-bottom: 60px;
 }
 
 
