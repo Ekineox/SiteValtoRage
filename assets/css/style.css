@@ -1042,6 +1042,7 @@ About section style
 .main_about{
     display: table;
     width:100%;
+    margin-top: 60px;
 }
 
 .about_bottom_content{
@@ -1249,7 +1250,7 @@ service section style
     display: table;
     overflow: hidden;
     width:100%;
-    margin-bottom: 60px;
+    margin-bottom: 100px;
 }
 
 
@@ -1541,7 +1542,7 @@ Brand Section style
 Subscribe Section style
 =====================*/
 .subscribe{
-    background: url(../images/background/subscribe.jpg) no-repeat center center;
+    background: url(http://res.cloudinary.com/valto/image/upload/v1517263592/138_xodc1r.jpg) no-repeat center center;
     background-size: cover;
     position: relative;
 }
@@ -1742,3 +1743,10 @@ Footer Section style
     text-decoration: none;
 
 }
+
+
+
+
+
+
+
