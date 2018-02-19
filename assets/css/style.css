@@ -1134,7 +1134,7 @@ FAQ Page
 
 .faq_main_content h6.open a i{
     color:#fff;
-    background-color: #444444;
+    background-color: #3498db;
 }
 
 
@@ -1745,7 +1745,14 @@ Footer Section style
 }
 
 
+/* ValtoCSS */
 
+.Vhover {
+    
+}
+.Vhover:hover {
+    text-shadow: 3px 2px 4px #337ab7;
+}
 
 
 
